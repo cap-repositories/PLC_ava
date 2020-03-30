@@ -1,5 +1,7 @@
 # Ejemplos del uso de CODESYS
+Esta carpeta esta dedicada a presentar ejemplos de uso de CODESYS, revise las subcarpetas para mirar los ejemplos disponibles.
 
+La siguiente información le podría ayudar a aprender a usar el ambiente de programación de CODESYS:
 + En el tutorial [Your First CODESYS Program](https://help.codesys.com/webapp/_cds_tutorial_refrigerator_control;product=codesys;version=3.5.15.0)
 se puede encontrar una introducción a CODESYS y un ejemplo de aplicación de la plataforma a un sistema de control de un refrigerador.
 
