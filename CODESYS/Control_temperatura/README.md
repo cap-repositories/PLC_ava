@@ -1,6 +1,10 @@
 # Control de temperatura
 Este ejemplo esta basado en el tutorial [Your First CODESYS Program](https://help.codesys.com/webapp/_cds_tutorial_refrigerator_control;product=codesys;version=3.5.15.0). 
 
+Hay dos implementaciones:
++ El archivo controlador_temp_SFC.project, implementa el controlador en Sequential Function Chart (**SFC**).
++ El archivo controlador_temp_ST.project, implementa el controlador en Structured Text (**ST**).
+
 La aplicación que se desarrolla implementa y simula un controlador sencillo para regular la temperatura en un refrigerador, que utiliza un compresor para disminuir la temperatura. El controlador es ON/OFF, este enciende el compresor cuando la temperatura esta a *S+d* y lo apaga cuando la temperatura esta a *S-d*, en otro caso el compresor mantiene su estado anterior, *S* es la temperatura base de control y *d* es un desfase para la temperatura base de control.
 
 ### Entradas
