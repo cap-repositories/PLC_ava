@@ -3,7 +3,7 @@ Esta carpeta esta dedicada a presentar ejemplos de uso de CODESYS, revise las su
 
 La siguiente información le podría ayudar a aprender a usar el ambiente de programación de CODESYS:
 + En el tutorial [Your First CODESYS Program](https://help.codesys.com/webapp/_cds_tutorial_refrigerator_control;product=codesys;version=3.5.15.0)
-se puede encontrar una introducción a CODESYS y un ejemplo de aplicación de la plataforma a un sistema de control de un refrigerador.
+se puede encontrar una introducción a CODESYS, un ejemplo de aplicación de la plataforma a un sistema de control de un refrigerador y el control del modulo Sorting de Festo.
 
 + En la sección [Programming Languages and Editors](https://help.codesys.com/webapp/_cds_struct_reference_programming_languages_and_editors;product=codesys;version=3.5.15.0)
 se puede encontrar la documentación de los lenguajes de programación Structure Text(**ST**)/Sequencial Function Chart(**SFC**)/
