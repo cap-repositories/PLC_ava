@@ -1,0 +1,1 @@
+curl --get --include "https://community-open-weather-map.p.rapidapi.com/weather?callback=test&id=2172797&units=%%22metric%%22+or+%%22imperial%%22&mode=xml%%2C+html&q=London%%2Cuk" -H "X-RapidAPI-Host: community-open-weather-map.p.rapidapi.com"  -H "X-RapidAPI-Key: 2b67f089dfmsh03bcb39f648eca5p14e9cdjsn60350a7383bf"

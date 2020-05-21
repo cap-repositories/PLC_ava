@@ -1,0 +1,15 @@
+{
+  "name": "opc_ua_communication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michaelgy",
+  "license": "ISC",
+  "dependencies": {
+    "node-opcua": "^2.5.12",
+    "unirest": "^0.6.0"
+  }
+}
