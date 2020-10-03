@@ -30,3 +30,7 @@ Además se cuentan con actuadores para llenar, vaciar o mezclar el liquido del t
 ### Suposiciones
 
 + El tanque no se reboza
+
+### Visualización principal
+
+![alt text](https://github.com/cap-repositories/PLC_ava/blob/master/CODESYS/Procesos/Tanque_llenado/tanque_visualizacion_principal.JPG "visualizacion")
