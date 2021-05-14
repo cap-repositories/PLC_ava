@@ -1,4 +1,12 @@
 # Banda llenadora
+### Visualización principal
+
+![visualización principal](https://github.com/cap-repositories/PLC_ava/blob/master/CODESYS/Procesos/Banda_llenadora/Imagenes/visualizacion_principal.gif "visualización principal")
+
+### Elementos de la simulación
+
+![elementos de la visualizacion](https://github.com/cap-repositories/PLC_ava/blob/master/CODESYS/Procesos/Banda_llenadora/Imagenes/completo.png "visualizacion completa")
+
 Los actuadores son los siguientes:
 1.	Motorreductor trifásico del elevador, encargado de subir el producto a la tolva de dosificación
 2.	Motorreductor trifásico de mezclado en la tolva.
