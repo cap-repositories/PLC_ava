@@ -9,7 +9,7 @@
   "author": "michaelgy",
   "license": "ISC",
   "dependencies": {
-    "node-opcua": "^2.5.12",
+    "node-opcua": "^2.74.0",
     "unirest": "^0.6.0"
   }
 }
